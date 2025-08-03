@@ -10,9 +10,6 @@ __pycache__/
 *.pyd
 
 # 데이터 파일
-NAB/
-*.csv
-*.json
 
 # 시스템 파일
 .DS_Store        
