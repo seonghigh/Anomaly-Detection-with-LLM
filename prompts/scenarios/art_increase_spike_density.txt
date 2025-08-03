@@ -1,0 +1,3 @@
+1. The data shows occasional isolated spikes with values exceeding 30.
+2. When spikes become denser (e.g., 3 or more spikes within 100 timestamps), this pattern is considered abnormal.
+3. Normal data has sparse and infrequent spikes.

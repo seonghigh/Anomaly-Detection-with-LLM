@@ -1,0 +1,27 @@
+# Python 가상환경
+venv_ollama/
+.env/
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 데이터 파일
+NAB/
+*.csv
+*.json
+
+# 시스템 파일
+.DS_Store        # macOS 전용
+Thumbs.db        # Windows 전용
+desktop.ini      # Windows 전용
+
+# IDE 설정
+.vscode/
+.idea/
+
+# Ollama 모델 캐시 (선택)
+.ollama/
+

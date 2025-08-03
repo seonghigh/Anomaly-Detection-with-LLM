@@ -1,0 +1,2 @@
+Rule 1: If the current time is between 08:00 and 12:00, and Device1's voltage is greater than 220V, then the data is abnormal.
+Rule 2: If Device2's current is greater than 2.0A and Device1's voltage is less than 215V at the same time, then the data is abnormal.

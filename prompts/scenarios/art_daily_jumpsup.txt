@@ -1,0 +1,3 @@
+1. The value typically varies gradually between 10 and 25.
+2. A sudden increase of more than 5 units in less than 10 timestamps is considered an abnormal jump.
+3. Gradual increases are normal; only sharp spikes should be flagged.

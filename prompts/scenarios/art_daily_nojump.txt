@@ -1,0 +1,3 @@
+1. The data shows very smooth periodic behavior with no abrupt changes.
+2. Any sudden jump or drop over 3 units is abnormal.
+3. The data should maintain consistent wave-like fluctuations.
